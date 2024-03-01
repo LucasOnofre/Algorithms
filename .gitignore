@@ -30,3 +30,7 @@ bin/
 /.idea
 /out
 /ResolvedAlgorithms.iml
+
+.idea
+out
+ResolvedAlgorithms.iml
